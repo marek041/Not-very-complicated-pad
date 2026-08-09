@@ -13,8 +13,9 @@ simple macro pad. 6 keys with oled display and Xiao RP2040. Macro pad for simple
   It was made in Fusion360 and components imported from KiCad
   (i added step files so it could generate full PCB with components )
 
-  it is all in cad folder
   <img src = assets/cad.png width="400">
+
+  it is all in cad folder
 
  ## PCB:
 PCB i made in KiCad 
