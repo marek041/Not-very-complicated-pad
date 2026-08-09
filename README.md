@@ -3,7 +3,7 @@ simple macro pad. 6 keys with oled display and Xiao RP2040. Macro pad for simple
 
 ## Features: 
 - 6 keys
-- 128x32 oled display-
+- 128x32 oled display
 - 3 leds
 - cool case (:
 
