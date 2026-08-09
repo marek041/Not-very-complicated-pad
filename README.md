@@ -17,7 +17,7 @@ simple macro pad. 6 keys with oled display and Xiao RP2040. Macro pad for simple
 
   it is all in cad folder
 
- ## PCB:
+## PCB:
 PCB i made in KiCad 
 
 <img src = assets/pcb.png width="400">
@@ -27,7 +27,7 @@ and Schematic
 <img src = assets/Schematic.png width="500">
 
 
-   ##BOM:
+## BOM:
   All components right there:
 
    - 6x Cheery MX switches
@@ -39,6 +39,6 @@ and Schematic
    - 1x XIAO RP2040
    - Case (3 printed parts)
  
-  ## EXTRA stuff
+## EXTRA stuff
 This is my first project on Hack Club 
 :D
