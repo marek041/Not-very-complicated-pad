@@ -19,9 +19,11 @@ simple macro pad. 6 keys with oled display and Xiao RP2040. Macro pad for simple
 
  ## PCB:
 PCB i made in KiCad 
-<img src = assets/pcb.png width="300">
+
+<img src = assets/pcb.png width="400">
 
 and Schematic 
+
 <img src = assets/Schematic.png width="500">
 
 
