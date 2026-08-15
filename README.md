@@ -40,5 +40,5 @@ and Schematic
    - Case (3 printed parts)
  
 ## EXTRA stuff
-This is my first project on Hack Club 
+This is my first project on Hack Club and also first time designing PCB
 :D
