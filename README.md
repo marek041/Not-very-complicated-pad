@@ -1,5 +1,7 @@
 # Not-very-complicated-pad
 simple macro pad. 6 keys with oled display and Xiao RP2040. Macro pad for simple tasks like ctrl+c, ctrl+v, etc. also programs opening with windows search and shutdown button :O
+<img src = assets/project.png width="400">
+<img src = assets/project2.png width="400">
 
 ## Features: 
 - 6 keys
